@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Example type system</name>
+  <description>
+  </description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>example.annotate.Name</name>
+      <description></description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+
+    </typeDescription>
+
+  </types>
+</typeSystemDescription>

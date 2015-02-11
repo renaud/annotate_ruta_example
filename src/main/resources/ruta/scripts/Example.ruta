@@ -1,0 +1,5 @@
+PACKAGE example.annotate;
+
+WORDLIST MyNames = 'names.txt';
+DECLARE Name;
+Document{-> MARKFAST(Name, MyNames)};
