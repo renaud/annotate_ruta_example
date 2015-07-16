@@ -1,5 +1,4 @@
 PACKAGE example.annotate;
 
-WORDLIST MyNames = 'names.txt';
 DECLARE Name;
-MARKFAST(Name, MyNames);
+"CC234\." -> Name;
