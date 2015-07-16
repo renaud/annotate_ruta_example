@@ -17,7 +17,6 @@ import org.apache.uima.ruta.engine.RutaEngine;
 import org.apache.uima.util.CasCreationUtils;
 import org.apache.uima.util.InvalidXMLException;
 
-import example.annotate.AnotherName;
 import example.annotate.Name;
 
 public class Annotate {
